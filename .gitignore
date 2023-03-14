@@ -133,3 +133,7 @@ dmypy.json
 /data
 *.npy
 *.pdf
+
+# exclude trained models
+*.h5
+/models
