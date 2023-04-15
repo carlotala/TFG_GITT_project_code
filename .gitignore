@@ -138,4 +138,3 @@ dmypy.json
 *.h5
 !ddqn_model_14.h5
 !cnn_model_6.h5
-/models
