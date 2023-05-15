@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### Code Structure:
 The code is organized into the following Jupyter notebooks:
 
-1. **load_data.ipynb**: This notebook loads and preprocesses the data for use in the classification models. It reads data from the directory '/data/raw' and saves the processed data files in the directory '/data/processed'.
+1. **load_data.ipynb**: This notebook loads and preprocesses the data for use in the classification models. It reads data from the directory `/data/raw` and saves the processed data files in the directory `/data/processed`.
 2. **CNN_Model.ipynb**: This notebook implements and trains a Convolutional Neural Network (CNN) model for classification, and provides analysis of the results.
 3. **RL_CNN_Model.ipynb**: This notebook implements and trains a Deep Q-Network (DQN) model for classification, and provides analysis of the results.
 4. **join_models.ipynb**: This notebook combines the predictions of the CNN and DQN models to create a more robust classification model, and provides analysis of the results.
